@@ -28,7 +28,7 @@
   
     - Scores by school type: Thomas High School which faired worse than the rest of the charter schools was still higher than any of the district schools
 
-![](Resources/Scores_by_school_type.PNG
+![](Resources/scores_by_school_type.PNG)
 
-## Summary:
+## Summary
 Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. 
