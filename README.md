@@ -8,7 +8,7 @@
   
     - The removal of the Thomas High School, 9th Grade, math and reading scores had little to no impact on the original analysis.  However, it did have a considerable impac on Thomas High School reducing the original Overall Passing rate of 91% and to the new rate of 65%
 
-![](Resources/changed_district_summary.png)
+https://github.com/PJ427/School_District_Analysis/blob/main/Resources/changed_district_summary.PNG
   
   o How is the school summary affected?  Thomas High School dropped from the 2nd ranked school to the 8th, though, it still ranked higher than any of the District schools
 
