@@ -2,6 +2,8 @@
 
   Upon completion of our origingal PyCitySchool Analysis, the school board found evidence of academic dishonesty concerning the math and reading grade for Thomas High School ninth grader.  Since the full extent of the academic dishonesty is unkown and the school board wants to uphold the state-testing standards they have requested a new analysis.  The new analaysis will replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact.  Once completed we will repeat the orignal analysis with the new data.  
 
+![](Resources/Replace_scores_with_NaN.PNG)
+
 ## Results: 
 
   o How is the district summary affected?
