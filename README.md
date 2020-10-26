@@ -31,4 +31,10 @@
 ![](Resources/scores_by_school_type.PNG)
 
 ## Summary
-Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. 
+
+  o Four major changes in the updated analysis:
+  
+    1. School Rankings Changed
+    2. Overall scores dropped
+    3. Reduced Budget
+    4. District Schools had no change
