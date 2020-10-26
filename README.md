@@ -28,7 +28,7 @@
   
     - Scores by school type: Thomas High School which faired worse than the rest of the charter schools was still higher than any of the district schools
 
-![](Resources/scores_by_school_type.PNG)
+![](Resources/Scores_by_school_type.PNG)
 
 ## Summary
 
