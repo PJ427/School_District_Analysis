@@ -11,6 +11,8 @@
 ![](Resources/changed_district_summary.png)
   
   o How is the school summary affected?  Thomas High School dropped from the 2nd ranked school to the 8th, though, it still ranked higher than any of the District schools
+
+![](Resources/School Summary.png)  
   
   o How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? Thomas High School saw a considerable drop in percentages passing math and reading as well as their overall pass rate.  They went from the 2nd ranked school overall to the 8th ranked school.
   
